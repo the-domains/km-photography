@@ -1,16 +1,16 @@
-layout_spectrum: 0.8475608823355287
-typography_spectrum: 0.5323097622022033
+layout_spectrum: 0.14910184405744076
+typography_spectrum: 0.28702384466305375
 color:
-  brandStrength: 0.6536818468011916
-  lightness: 0.8393508766312152
-  saturation: 0.4838196418713778
-  rhythmicContrast: 0.3328782203607261
+  brandStrength: 0.9723567282781005
+  lightness: 0.5688305634539574
+  saturation: 0.04052392882294953
+  rhythmicContrast: 0.5893983417190611
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
 name: km-photography
 author:
   name: Kristy Manning
